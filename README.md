@@ -85,8 +85,3 @@ ASKmYDocs is a user-friendly PDF-based Q&A chatbot built with [Streamlit](https:
 
 ---
 
-### ⚙️ Additional Actions
-
-- **Copy Answer**: Copy the latest response to your clipboard.
-- **Regenerate Answer**: Request a new response for the same question.
-- **Download Chat History**: Save the current session as a text file.
